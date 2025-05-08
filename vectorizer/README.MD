@@ -11,16 +11,6 @@ This project demonstrates how to build a basic text vectorizer **from scratch**,
 
 ---
 
-## 📁 File Structure
-
-```
-
-NLP/
-├── TextVectorization.py     # Python module defining the Vectorizer class
-├── Vectorizer.ipynb         # Jupyter notebook with usage examples
-
-````
-
 ---
 
 ## 📌 What You’ll Learn
