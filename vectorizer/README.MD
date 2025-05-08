@@ -1,17 +1,7 @@
-Here’s a clean and educational `README.md` for your project. It explains both the Python module (`TextVectorization.py`) and the Jupyter Notebook (`Vectorizer.ipynb`) in a way that’s friendly for students learning NLP from scratch.
-
---- 
-
-### 📄 `README.md`
-
-```markdown
-# 🧠 Simple Text Vectorizer in Python
+## Simple Text Vectorizer in Python
 
 This project demonstrates how to build a basic text vectorizer **from scratch**, without using external libraries like `scikit-learn` or `transformers`. It is ideal for students beginning their journey into **Natural Language Processing (NLP)**.
 
----
-
----
 
 ## 📌 What You’ll Learn
 
@@ -46,7 +36,7 @@ print(encoded)  # Output: [2, 3, 6] (example)
 
 # Decode back to text
 print(vectorizer.decode(encoded))  # Output: i write again
-````
+```
 
 ---
 
@@ -84,14 +74,3 @@ Students can extend this project by:
 * Using frequency thresholds for vocabulary
 * Creating n-gram tokenizers
 * Moving from word-level to subword-level tokenization
-
----
-
-Happy Learning! ✨
-
-```
-
----
-
-Would you like me to save this `README.md` file directly into your project folder as well?
-```
