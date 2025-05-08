@@ -34,14 +34,6 @@ Ensure you have Python installed. It's recommended to use a virtual environment 
 
 3. **Install the required packages**:
 
-   If a `requirements.txt` file is present:
-
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-   If not, you may need to install libraries manually, such as `nltk`, `spacy`, and `transformers`:
-
    ```bash
    pip install nltk spacy transformers
    ```
@@ -56,23 +48,3 @@ Ensure you have Python installed. It's recommended to use a virtual environment 
    import spacy
    spacy.cli.download("en_core_web_sm")
    ```
-
-## Usage
-
-Open the Jupyter Notebook(s) in this directory to explore and experiment with various NLP techniques:
-
-```bash
-jupyter notebook
-```
-
-Navigate to the desired notebook and follow the instructions provided in each section.
-
-## References
-
-- [NLTK Documentation](https://www.nltk.org/)
-- [spaCy Documentation](https://spacy.io/)
-- [Hugging Face Transformers](https://huggingface.co/transformers/)
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](../LICENSE) file for details.
