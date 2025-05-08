@@ -13,7 +13,7 @@ This repository offers a hands-on exploration of fundamental Natural Language Pr
 
 ## Overview
 
-The project encompasses a range of NLP tasks, including:
+This project covers a wide range of NLP tasks, including:
 
 - Text preprocessing
 - Tokenization
@@ -23,7 +23,7 @@ The project encompasses a range of NLP tasks, including:
 - Topic modeling
 - Sentiment analysis
 
-By utilizing libraries such as Hugging Face Transformers, spaCy, and NLTK, the repository provides insights into the practical application of these techniques.
+Using libraries such as Hugging Face Transformers, spaCy, and NLTK, this repository provides insights into the practical application of these techniques, with content that will be completed over time.
 
 ## Features
 
