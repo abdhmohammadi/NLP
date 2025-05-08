@@ -43,7 +43,7 @@ print(vectorizer.decode(encoded))  # Output: i write again
 ## 🔍 Special Tokens
 
 * `[UNK]`: Used when a word is not found in the vocabulary
-* `""` (empty string): Reserved for padding or unknown behavior, ID = 0
+* `""` (empty string): Reserved for out of vocabulary(OOV) string, ID = 0
 
 ---
 
