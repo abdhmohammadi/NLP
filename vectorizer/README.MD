@@ -52,6 +52,7 @@ print(vectorizer.decode(encoded))  # Output: i write again
 This project uses only the Python standard library.
 
 ✅ No external packages required.
+
 ---
 
 ## 📘 For Educators
