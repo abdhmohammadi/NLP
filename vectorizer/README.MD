@@ -1,6 +1,6 @@
 Here’s a clean and educational `README.md` for your project. It explains both the Python module (`TextVectorization.py`) and the Jupyter Notebook (`Vectorizer.ipynb`) in a way that’s friendly for students learning NLP from scratch.
 
----
+--- 
 
 ### 📄 `README.md`
 

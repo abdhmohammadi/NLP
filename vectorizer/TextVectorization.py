@@ -5,7 +5,7 @@ class Vectorizer:
         """
         Converts text to lowercase and removes punctuation.
         """
-        text = text.lower()
+        text = text.lower() 
         # Remove all punctuation characters (e.g., !"#$%&'()*+,-./ etc.)
         text = ''.join(char for char in text if char not in string.punctuation)
         return text
