@@ -1,8 +1,6 @@
 ## Text Vectorization Methods
 
-This notebook demonstrates the basic concepts of building a basic text vectorizer **from scratch**, without using external libraries like `scikit-learn` or `transformers`. It then explores traditional and advanced methods for a deeper understanding. If you are interested, a brief history of its emergence is also provided in [Text vectorization history](/vectorizer/History.html).
-
-
+This notebook demonstrates the basic concepts of building a basic text vectorizer **from scratch**, without using external libraries like `scikit-learn` or `transformers`. It then explores traditional and advanced methods for a deeper understanding. If you are interested, a brief history of its emergence is also provided in [Text vectorization history](https://github.com/abdhmohammadi/NLP/blob/main/vectorizer/History.html)
 ### Word2Vec
 
 A major advancement came in 2013 when **Tomáš Mikolov** and his team at Google developed **Word2Vec**, a set of models that produce word embeddings. Word2Vec introduced two architectures: Continuous Bag of Words (CBOW) and Skip-Gram, both of which efficiently learn word representations that capture semantic and syntactic relationships. This work significantly popularized the use of dense vector representations in NLP. ([Wikipedia][3], [Haystack][4])
