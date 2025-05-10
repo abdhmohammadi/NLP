@@ -1,6 +1,6 @@
 ## Text Vectorization Methods
 
-This notebook demonstrates the basic concepts of building a basic text vectorizer **from scratch**, without using external libraries like `scikit-learn` or `transformers`. It then explores traditional and advanced methods for a deeper understanding. If you are interested, a brief history of its emergence is also provided in [Text vectorization history](https://github.com/abdhmohammadi/NLP/blob/main/vectorizer/History.html).
+This notebook demonstrates the basic concepts of building a basic text vectorizer **from scratch**, without using external libraries like `scikit-learn` or `transformers`. It then explores traditional and advanced methods for a deeper understanding. If you are interested, a brief history of its emergence is also provided in [Text vectorization history](https://htmlpreview.github.io/?https://raw.githubusercontent.com/abdhmohammadi/NLP/blob/main/vectorizer/History.html).
 
 
 ### Word2Vec
