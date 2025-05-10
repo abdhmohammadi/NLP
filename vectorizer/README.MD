@@ -1,23 +1,7 @@
 ## Text Vectorization Methods
 
-This project demonstrates how to build a basic text vectorizer **from scratch**, without using external libraries like `scikit-learn` or `transformers`. It is ideal for students beginning their journey into **Natural Language Processing (NLP)**.
+This notebook demonstrates the basic concepts of building a basic text vectorizer **from scratch**, without using external libraries like `scikit-learn` or `transformers`. It then explores traditional and advanced methods for a deeper understanding. If you are interested, a brief history of its emergence is also provided in [Text vectorization history](/vectorizer/History.html).
 
-
-## History
-
-The concept of **text vectorization** in Natural Language Processing (NLP) has evolved over several decades, with contributions from various researchers and institutions.
-
-### Early Foundations
-
-The foundational idea that "a word is characterized by the company it keeps" was proposed by British linguist **John Rupert Firth** in 1957. This principle, known as the *distributional hypothesis*, suggests that words used in similar contexts tend to have similar meanings. It laid the groundwork for representing words numerically based on their contextual usage.([Wikipedia][1], [Wikipedia][2])
-
-### Latent Semantic Analysis (LSA)
-
-In the late 1980s, researchers **Scott Deerwester**, **Susan Dumais**, **George Furnas**, **Richard Harshman**, **Thomas Landauer**, **Karen Lochbaum**, and **Lynn Streeter** developed **Latent Semantic Analysis (LSA)**. LSA is a technique that analyzes relationships between a set of documents and the terms they contain by producing a set of concepts related to the documents and terms. It uses singular value decomposition (SVD) to reduce the dimensionality of the term-document matrix, capturing the underlying semantic structure in the data. ([Wikipedia][2])
-
-### Neural Probabilistic Language Models
-
-In 2003, **Yoshua Bengio** and colleagues introduced the **Neural Probabilistic Language Model**, which aimed to address the curse of dimensionality in language modeling. This model proposed learning a distributed representation for words, allowing for better generalization to unseen word sequences. It marked a significant shift towards using neural networks for learning word representations.([Wikipedia][1])
 
 ### Word2Vec
 
@@ -28,14 +12,6 @@ A major advancement came in 2013 when **Tomáš Mikolov** and his team at Google
 In 2014, researchers at Stanford University, including **Jeffrey Pennington**, **Richard Socher**, and **Christopher Manning**, developed **GloVe (Global Vectors for Word Representation)**. GloVe combines the benefits of global matrix factorization and local context window methods, producing word embeddings by aggregating global word-word co-occurrence statistics from a corpus. ([Wikipedia][5])
 
 ### Summary
-
-While the idea of representing text numerically has roots in the mid-20th century, significant milestones include:
-
-* **1957**: Distributional hypothesis by John Rupert Firth.
-* **Late 1980s**: Development of LSA by Deerwester et al.
-* **2003**: Neural Probabilistic Language Model by Bengio et al.
-* **2013**: Introduction of Word2Vec by Mikolov et al.
-* **2014**: Development of GloVe by Pennington et al.([Wikipedia][1], [Wikipedia][2], [Wikipedia][3])
 
 Each of these contributions has played a pivotal role in shaping the methods used for text vectorization in NLP today.
 
