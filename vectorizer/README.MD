@@ -11,40 +11,6 @@ This notebook demonstrates the basic concepts of building a basic text vectorize
 - How to decode numbers back into words
 - How to handle unknown or unseen words
 
----
-
-## 🧪 Usage Example (from the notebook)
-
-```python
-import TextVectorization as tv
-
-vectorizer = tv.Vectorizer()
-
-dataset = [
-    "I write, erase, rewrite",
-    "Erase again, and then",
-    "A poppy blooms."
-]
-
-# Build vocabulary
-vectorizer.make_vocabulary(dataset)
-
-# Encode a sentence
-encoded = vectorizer.encode("I write again")
-print(encoded)  # Output: [2, 3, 6] (example)
-
-# Decode back to text
-print(vectorizer.decode(encoded))  # Output: i write again
-```
-
----
-
-## 🔍 Special Tokens
-
-* `[UNK]`: Used when a word is not found in the vocabulary
-* `""` (empty string): Reserved for out of vocabulary(OOV) string, ID = 0
-
----
 
 ## 🧰 Requirements
 
