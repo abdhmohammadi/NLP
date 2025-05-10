@@ -11,30 +11,5 @@ This notebook demonstrates the basic concepts of building a basic text vectorize
 - How to decode numbers back into words
 - How to handle unknown or unseen words
 
-
-## 🧰 Requirements
-
-This project uses only the Python standard library.
-
-✅ No external packages required.
-
----
-
-## 📘 For Educators
-
-This project is intentionally written without high-level libraries to **teach students the fundamentals** of:
-
-* Vocabulary building
-* Tokenization logic
-* How NLP models understand text as numbers
-
----
-
 ## ✅ Next Steps
-
-Students can extend this project by:
-
-* Adding stopword removal
-* Using frequency thresholds for vocabulary
-* Creating n-gram tokenizers
-* Moving from word-level to subword-level tokenization
+....
