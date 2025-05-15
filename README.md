@@ -1,12 +1,13 @@
 # NLP Fundamentals with Practical Implementations
 
 This repository offers a hands-on exploration of fundamental Natural Language Processing (NLP) techniques. Through practical examples implemented in Jupyter Notebooks, it demonstrates how to preprocess text, analyze linguistic features, and extract meaningful information using popular NLP libraries.
+
 (The update continues ...)
 
 ## Table of Contents
 - History of NLP concepts
 
-    We try to provide the historical background of each topic in this [section](https://github.com/abdhmohammadi/NLP/blob/main/History.html).
+    We try to provide the historical background of each topic in this [section](https://abdhmohammadi.github.io/NLP/docs/History.html).
 
 - Text processing:
     Tokenization, Lemmatization, Stemming, Stopwords removal and ...
