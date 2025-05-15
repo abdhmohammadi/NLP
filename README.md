@@ -1,26 +1,31 @@
 # NLP Fundamentals with Practical Implementations
 
 This repository offers a hands-on exploration of fundamental Natural Language Processing (NLP) techniques. Through practical examples implemented in Jupyter Notebooks, it demonstrates how to preprocess text, analyze linguistic features, and extract meaningful information using popular NLP libraries.
+(The update continues ...)
 
 ## Table of Contents
+- History of NLP concepts
 
-- [Overview](#overview)
-- [Features](#features)
-- [License](#license)
+    We try to provide the historical background of each topic in this [section](https://github.com/abdhmohammadi/NLP/blob/main/History.html).
 
-## Overview
+- Text processing:
+    Tokenization, Lemmatization, Stemming, Stopwords removal and ...
 
-This project covers a wide range of NLP tasks, including:
+- Text vectorization
+    Bag of Words, TF-IDF, N-Grams
 
+<!--
 - Text preprocessing
 - Tokenization
-- Lemmatization and stemming
+-  and 
 - Stopwords removal
 - Named Entity Recognition (NER)
-<!--
+
 - Topic modeling
 - Sentiment analysis
 -->
+
+<!--
 Using libraries such as Hugging Face Transformers, spaCy, and NLTK, this repository provides insights into the practical application of these techniques, with content that will be completed over time.
 
 ## Features
@@ -37,3 +42,4 @@ Using libraries such as Hugging Face Transformers, spaCy, and NLTK, this reposit
 - ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+-->

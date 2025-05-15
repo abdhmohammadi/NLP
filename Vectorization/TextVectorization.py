@@ -1,6 +1,6 @@
 import string  # For handling punctuation
 
-
+# Sample implementation
 class Vectorizer:
     def stantardize(self, text: str):
         """
