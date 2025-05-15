@@ -13,7 +13,7 @@ This repository offers a hands-on exploration of fundamental Natural Language Pr
     Tokenization, Lemmatization, Stemming, Stopwords removal and ...
 
 - Text vectorization
-    Bag of Words, TF-IDF, N-Grams
+    Bag of Words, TF-IDF <!--, N-Grams -->
 
 <!--
 - Text preprocessing
