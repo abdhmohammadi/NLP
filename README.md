@@ -7,7 +7,7 @@ This repository offers a hands-on exploration of fundamental Natural Language Pr
 ## Table of Contents
 - History of NLP concepts
 
-    We try to provide the historical background of each topic in this [section](https://abdhmohammadi.github.io/NLP/docs/History.html).
+    We try to provide the historical background of each topic in this [section](https://abdhmohammadi.github.io/NLP/History.html).
 
 - Text processing:
 
