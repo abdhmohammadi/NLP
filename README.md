@@ -2,7 +2,6 @@
 
 This repository offers a hands-on exploration of fundamental Natural Language Processing (NLP) techniques. Through practical examples implemented in Jupyter Notebooks, it demonstrates how to preprocess text, analyze linguistic features, and extract meaningful information using popular NLP libraries.
 
-(The update continues ...)
 
 ## Table of Contents
 - History of NLP concepts
@@ -17,6 +16,8 @@ This repository offers a hands-on exploration of fundamental Natural Language Pr
 
     Bag of Words, TF-IDF, N-Grams
 
+
+(The update continues ...)
 <!--
 - Text preprocessing
 - Tokenization
