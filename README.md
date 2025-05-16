@@ -42,7 +42,3 @@ Using libraries such as Hugging Face Transformers, spaCy, and NLTK, this reposit
 - **Topic Modeling**: Discovering abstract topics within text data.
 - **Sentiment Analysis**: Assessing the emotional tone behind a body of text.
  -->
-- ## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
--->
