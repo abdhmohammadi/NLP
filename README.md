@@ -14,7 +14,7 @@ This repository offers a hands-on exploration of fundamental Natural Language Pr
 
 - Text vectorization
 
-    Bag of Words, TF-IDF, N-Grams
+    Bag of Words, TF-IDF(more explained using `word cloud`), N-Grams
 
 
 (The update continues ...)
