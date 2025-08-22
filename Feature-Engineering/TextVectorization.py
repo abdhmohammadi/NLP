@@ -55,3 +55,5 @@ class Vectorizer:
         """
         return " ".join(self.inverse_vocabulary.get(i, "[UNK]") for i in int_sequence)
 
+
+print('Helo')
