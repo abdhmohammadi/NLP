@@ -1,21 +1,30 @@
-# NLP Fundamentals with Practical Implementations
+<div align="right">
+    
+![Views](https://views-counter.vercel.app/badge?pageId=abdhmohammadi%2FNLP&label=Views)   
 
-This repository offers a hands-on exploration of fundamental Natural Language Processing (NLP) techniques. Through practical examples implemented in Jupyter Notebooks, it demonstrates how to preprocess text, analyze linguistic features, and extract meaningful information using popular NLP libraries.
-
+</div>
 
 ## Table of Contents
-- History of NLP concepts
-
-    We try to provide the historical background of each topic in this [section](https://abdhmohammadi.github.io/NLP/History.html).
-
 - Text processing:
 
     Tokenization, Lemmatization, Stemming, Stopwords removal and ...
 
 - Text vectorization
+    > Bag of Words
 
-    Bag of Words, TF-IDF(more explained using `word cloud`), N-Grams
+    > One-Hot Encoding
+    
+    > TF-IDF
 
+    > Word2Vec (Continues Bag of Words-CBOW)
+
+    > Word2Vec (Skip Gram-In progress)
+    
+    > GloVe (Under preparation)
+    
+    > FastText (Under preparation)
+    
+    > BERT (Under preparation)
 
 (The update continues ...)
 <!--
