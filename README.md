@@ -4,12 +4,6 @@
 
 </div>
 
-
-# NLP Fundamentals with Practical Implementations
-
-This repository offers a hands-on exploration of fundamental Natural Language Processing (NLP) techniques. Through practical examples implemented in Jupyter Notebooks, it demonstrates how to preprocess text, analyze linguistic features, and extract meaningful information using popular NLP libraries.
-
-
 ## Table of Contents
 - Text processing:
 
@@ -17,9 +11,20 @@ This repository offers a hands-on exploration of fundamental Natural Language Pr
 
 - Text vectorization
     > Bag of Words
-    
-    > TF-IDF(more explained using `word cloud`), N-Grams
 
+    > One-Hot Encoding
+    
+    > TF-IDF
+
+    > Word2Vec (Continues Bag of Words-CBOW)
+
+    > Word2Vec (Skip Gram-In progress)
+    
+    > GloVe (Under preparation)
+    
+    > FastText (Under preparation)
+    
+    > BERT (Under preparation)
 
 (The update continues ...)
 <!--
