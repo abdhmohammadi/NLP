@@ -11,17 +11,14 @@ This repository offers a hands-on exploration of fundamental Natural Language Pr
 
 
 ## Table of Contents
-- History of NLP concepts
-
-    We try to provide the historical background of each topic in this [section](https://abdhmohammadi.github.io/NLP/History.html).
-
 - Text processing:
 
     Tokenization, Lemmatization, Stemming, Stopwords removal and ...
 
 - Text vectorization
-
-    Bag of Words, TF-IDF(more explained using `word cloud`), N-Grams
+    > Bag of Words
+    
+    > TF-IDF(more explained using `word cloud`), N-Grams
 
 
 (The update continues ...)
