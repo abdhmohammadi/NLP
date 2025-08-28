@@ -1,8 +1,10 @@
-<div>
+<div align="right">
     
-![Views](https://views-counter.vercel.app/badge?pageId=abdhmohammadi%2FNLP)   
+![Views](https://views-counter.vercel.app/badge?pageId=abdhmohammadi%2FNLP&label=Views)   
 
 </div>
+
+
 # NLP Fundamentals with Practical Implementations
 
 This repository offers a hands-on exploration of fundamental Natural Language Processing (NLP) techniques. Through practical examples implemented in Jupyter Notebooks, it demonstrates how to preprocess text, analyze linguistic features, and extract meaningful information using popular NLP libraries.
